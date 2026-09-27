@@ -106,6 +106,11 @@ Aşağıdaki tüm eklentiler depoyu eklediğinizde CloudStream eklenti yönetici
 | **Justin TV** | Canlı Maç | Canlı Futbol & Basketbol Akışları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **Trgoals** | Canlı Maç | Günlük Maç Yayınları & Fikstür | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **Kralbozguncu** | Canlı Maç | Alternatif Canlı Spor Kanalları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Matbet TV** | Canlı Maç & TV | Canlı Futbol, Basketbol ve Spor Kanalları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Vegol TV** | Canlı Maç | Kesintisiz Spor ve Canlı Müsabakalar | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Jojobet TV** | Canlı Maç | Canlı Spor Akışları ve Lig Karşılaşmaları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Golvar TV** | Canlı Maç | Canlı Maç İzleme ve Spor Yayınları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Netspor** | Canlı Maç & Spor | Türkiye ve Avrupa Ligleri Canlı Yayın Ağı | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 
 
 ---
