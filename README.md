@@ -108,9 +108,15 @@ Eklentilerde karşılaştığınız hata bildirimleri, çalışmayan kaynaklar v
 
 ---
 
+## 🤝 Teşekkürler ve Atıflar (Credits)
+Bu projenin geliştirilmesinde ve modül altyapılarında **wiojelt**, **keyiflerolsun** ve **kraptor**'un açık kaynak çalışmalarından, bilgi birikiminden ve topluluk katkılarından yararlanılmıştır. Açık kaynak ekosistemine sundukları katkılar için kendilerine teşekkür ederiz.
+
+---
+
 ## ⚖️ Yasal Uyarı & Sorumluluk Reddi (Disclaimer)
 
 * Bu depo **yalnızca bilgilendirme ve dizin sunumu** amacıyla oluşturulmuştur. 
 * Bu depoda **hiçbir kaynak kod, video dosyası, telifli medya veya akış barındırılmamaktadır.**
 * Eklentiler, açık kaynaklı [CloudStream 3](https://cloudstream.cf/) uygulaması için topluluk tarafından geliştirilen indeksleyici tanımlardır. 
 * İndekslenen içeriklerin tamamı kamuya açık üçüncü taraf internet sitelerine aittir. Telif hakkı sahipleri içerik kaldırma talepleri için doğrudan asıl içeriği barındıran kaynak siteler ile iletişime geçmelidir.
+
