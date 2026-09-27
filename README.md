@@ -109,7 +109,7 @@ Eklentilerde karşılaştığınız hata bildirimleri, çalışmayan kaynaklar v
 ---
 
 ## 🤝 Teşekkürler ve Atıflar (Credits)
-Bu projenin geliştirilmesinde ve modül altyapılarında **wiojelt**, **keyiflerolsun**, **kraptor** ve [**feroxx**](https://github.com/feroxx/Kekik-cloudstream)'un açık kaynak çalışmalarından, bilgi birikiminden ve topluluk katkılarından yararlanılmıştır. Açık kaynak ekosistemine sundukları katkılar için kendilerine teşekkür ederiz.
+Bu projenin geliştirilmesinde ve modül altyapılarında **wiojelt**, **keyiflerolsun**, **kraptor** ve **feroxx**'un açık kaynak çalışmalarından, bilgi birikiminden ve topluluk katkılarından yararlanılmıştır. Açık kaynak ekosistemine sundukları katkılar için kendilerine teşekkür ederiz.
 
 ---
 
