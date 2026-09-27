@@ -86,6 +86,7 @@ Aşağıdaki tüm eklentiler depoyu eklediğinizde CloudStream eklenti yönetici
 | **Kült Filmler** | Klasik / Sinema | Özel Seçkiler | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **SinemaCX** | Film | 1080p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **Sinewix** | Film & Dizi | Zengin Katalog | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **RareFilmm** | Nadir / Festival | Arşiv Filmleri | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 
 ### 📺 Çizgi Dizi, Belgesel & TV
 | Eklenti | Tür | Durum |
