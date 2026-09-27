@@ -95,8 +95,18 @@ Aşağıdaki tüm eklentiler depoyu eklediğinizde CloudStream eklenti yönetici
 | **BelgeselX** | Türkçe Belgesel | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **DDizi** | Yerli Nostalji & Güncel Dizi | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **SelçukFlix** | Karışık Medya | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
-| **İnatBox** | Web Akışları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
-| **RecTV** | Web Akışları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Canlı TV** | Canlı Yayınlar | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **RecTV** | Canlı Spor & TV | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+
+### ⚽ Canlı Maç & Spor Yayınları
+| Eklenti | Tür | Açıklama | Durum |
+| :--- | :--- | :--- | :---: |
+| **Taraftarium24** | Canlı Maç & Spor | Süper Lig, Şampiyonlar Ligi, Derbiler | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **SelçukSports** | Canlı Maç & Spor | Kesintisiz Spor Kanalları & Maçlar | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Justin TV** | Canlı Maç | Canlı Futbol & Basketbol Akışları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Trgoals** | Canlı Maç | Günlük Maç Yayınları & Fikstür | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Kralbozguncu** | Canlı Maç | Alternatif Canlı Spor Kanalları | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+
 
 ---
 
