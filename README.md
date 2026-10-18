@@ -117,7 +117,7 @@ Aşağıdaki tüm eklentiler depoyu eklediğinizde CloudStream eklenti yönetici
 | **Deokwave** | Anime & Asya Dizileri | 4K UHD / 1080p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **OpenAnime** | Anime | 1080p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **Anizm** | Anime | 1080p / 720p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
-| **Anizium** | Anime | 1080p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
+| **Anizium** | Anime & Asya | 4K UHD / TR Dublaj & Altyazı | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **AnimeCiX** | Anime | 1080p / 720p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **TrAnimeİzle** | Anime | 1080p / 720p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
 | **DiziKorea** | K-Drama & Asya | 1080p / 720p | ![Çalışıyor](https://img.shields.io/badge/-Aktif-brightgreen?style=flat-square) |
