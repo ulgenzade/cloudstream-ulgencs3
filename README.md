@@ -109,9 +109,9 @@ Nuvio uygulamasında **Settings (Ayarlar) → Plugins / Repositories → Add Rep
 ### 3. Stremio (Doğrudan Addon)
 Stremio uygulamasında **Addons → Addon URL Yapıştır** kutusuna ekleyin:
 
-* **🦊 GitLab Pages (CORS Destekli & Sunucusuz):**
+* **🦊 GitLab Canlı Manifest URL:**
   ```text
-  https://ulgenzade.gitlab.io/ulgencs3/stremio/manifest.json
+  https://gitlab.com/ulgenzade/ulgencs3/-/raw/master/manifest.json
   ```
 
 ---
